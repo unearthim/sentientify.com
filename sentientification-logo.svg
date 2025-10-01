@@ -1,0 +1,33 @@
+<svg width="400" height="150" viewBox="0 0 400 150" xmlns="http://www.w3.org/2000/svg">
+    <style>
+        .logotype {
+            font-family: 'Inter', sans-serif;
+            font-size: 38px;
+            font-weight: 600;
+            letter-spacing: -1px;
+        }
+        .sentienti { fill: #2E2E2E; } /* Charcoal */
+        .fication { fill: #A95C3D; } /* Burnt Sienna */
+    </style>
+
+    <g id="emblem" transform="translate(75, 75)">
+        <circle cx="0" cy="0" r="55" fill="none" stroke="#2E2E2E" stroke-width="2.5"/>
+        
+        <path d="M 0 -52.5 A 52.5 52.5 0 0 0 0 52.5" fill="#2E2E2E" stroke="none"/>
+        
+        <g fill="#A95C3D">
+            <path d="M 0 -52.5 A 52.5 52.5 0 0 1 0 52.5 Z" />
+            <g fill="#F8F7F4" fill-opacity="0.8"> <rect x="10" y="-45" width="30" height="8" />
+                <rect x="10" y="-30" width="35" height="8" />
+                <rect x="10" y="-15" width="25" height="8" />
+                <rect x="10" y="0" width="40" height="8" />
+                <rect x="10" y="15" width="20" height="8" />
+                <rect x="10" y="30" width="33" height="8" />
+            </g>
+        </g>
+    </g>
+
+    <text x="145" y="82" class="logotype">
+        <tspan class="sentienti">sentienti</tspan><tspan class="fication">fication</tspan>
+    </text>
+</svg>
