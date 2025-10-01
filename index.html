@@ -47,9 +47,29 @@
             -moz-osx-font-smoothing: grayscale;
         }
 
+        .working-paper-notice {
+            background-color: #fffaf0; /* A slightly different off-white for contrast */
+            border: 1px solid var(--border-color);
+            border-left: 4px solid var(--accent-color);
+            padding: 1.5rem 2rem;
+            margin: 2rem auto;
+            font-family: 'Inter', sans-serif;
+            font-size: 0.9rem;
+            line-height: 1.6;
+            color: var(--text-color);
+            max-width: 1100px;
+        }
+        .working-paper-notice p {
+            margin: 0;
+            padding: 0.5rem 0;
+        }
+        .working-paper-notice strong {
+            font-weight: 600;
+        }
+
         .container {
             max-width: 1100px;
-            margin: 4rem auto;
+            margin: 2rem auto 4rem auto;
             padding: 2rem;
             display: flex;
             gap: 4rem;
@@ -213,6 +233,14 @@
     </style>
 </head>
 <body>
+
+    <div class="working-paper-notice">
+        <p><strong>Working Paper - Version 1.0</strong><br>
+        Felix Velasco & Josie Jefferson<br>
+        Cultural Infrastructure Laboratory<br>
+        September 2025</p>
+        <p><em>Citation verification and Chicago Manual formatting in progress. Updated version with verified sources forthcoming.</em></p>
+    </div>
 
     <div class="container">
         <main>
