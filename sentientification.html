@@ -190,6 +190,21 @@
                 border-color: var(--accent-color);
             }
 
+            .back-link {
+                font-family: 'Inter', sans-serif;
+                font-size: 0.9rem;
+                font-weight: 600;
+                color: var(--meta-text-color);
+                text-decoration: none;
+                border-bottom: none; /* Remove underline by default */
+                display: block;
+                margin-bottom: 2rem;
+            }
+            .back-link:hover {
+                color: var(--accent-color);
+                background-color: transparent;
+                border-bottom: none; /* Ensure no underline on hover either */
+            }
 
             code {
                 font-family: 'Inter', sans-serif;
@@ -217,6 +232,7 @@
 
         <div class="container">
             <main>
+                <a href="index.html" class="back-link">&larr; Back to Series</a>
                 <article>
                     <header>
                         <h1>Sentientification: The Linguistic Evolution of AI Consciousness</h1>
