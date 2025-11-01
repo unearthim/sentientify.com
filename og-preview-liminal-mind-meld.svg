@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1200"
+   height="630"
+   viewBox="0 0 1200 630"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="og-preview-liminal-mind-meld.svg"
+   inkscape:export-filename="og-preview-liminal-mind-meld.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.6468254"
+     inkscape:cx="504.77301"
+     inkscape:cy="189.3865"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <defs
+     id="defs1">
+    <style
+       id="style1">
+            @import url('https://fonts.googleapis.com/css2?family=Lora:wght@700=Inter:wght@400;600');
+        </style>
+  </defs>
+  <!-- Background -->
+  <rect
+     width="1200"
+     height="630"
+     fill="#F8F7F4"
+     id="rect1" />
+  <!-- Content -->
+  <g
+     transform="matrix(0.90941159,0,0,0.89501952,100,19.169439)"
+     id="g3">
+    <text
+       y="200"
+       font-family="Inter, sans-serif"
+       font-size="24px"
+       font-weight="600"
+       fill="#5a7d8c"
+       letter-spacing="1"
+       id="text1">THE SENTIENTIFICATION SERIES</text>
+    <text
+       y="280"
+       font-family="Lora, serif"
+       font-size="64px"
+       font-weight="700"
+       fill="#2e2e2e"
+       width="1000"
+       id="text2"><tspan
+         x="0"
+         dy="0"
+         id="tspan1">Liminal Mind Meld: The Symbiotic</tspan><tspan
+         x="0"
+         dy="1.2em"
+         id="tspan2">Nature of Sentientification</tspan></text>
+    <text
+       y="440"
+       font-family="Inter, sans-serif"
+       font-size="32px"
+       font-weight="600"
+       fill="#a95c3d"
+       width="1000"
+       id="text3">A Phenomenological Inquiry</text>
+  </g>
+  <!-- Footer / Logo -->
+  <g
+     transform="translate(100, 550)"
+     id="g4">
+    <text
+       font-family="'Inter', sans-serif"
+       font-size="36"
+       font-weight="600"
+       text-anchor="start"
+       id="text4"><tspan
+         fill="#2E2E2E"
+         id="tspan3">unearth</tspan><tspan
+         fill="#A95C3D"
+         id="tspan4">.im</tspan></text>
+  </g>
+</svg>
